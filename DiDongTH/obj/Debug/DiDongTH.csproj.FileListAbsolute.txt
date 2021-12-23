@@ -1,0 +1,16 @@
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\bin\Debug\DiDongTH.exe.config
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\bin\Debug\DiDongTH.exe
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\bin\Debug\DiDongTH.pdb
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\bin\Debug\EntityFramework.dll
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\bin\Debug\EntityFramework.SqlServer.dll
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\bin\Debug\EntityFramework.xml
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\bin\Debug\EntityFramework.SqlServer.xml
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.csproj.AssemblyReference.cache
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.csproj.SuggestedBindingRedirects.cache
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.frmDiDong.resources
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.Properties.Resources.resources
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.csproj.GenerateResource.cache
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.csproj.CoreCompileInputs.cache
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.exe
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.pdb
+D:\Thien\Workspace\C#-NET\NET#\DiDongTH\DiDongTH\obj\Debug\DiDongTH.frmChiTietDiDong.resources
